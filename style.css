@@ -1,0 +1,12 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.5em;
+}
+
+#numOfPermutations {
+    text-align: center;
+    color: #993333;
+    font-size: 1.5em;
+    line-height: 1.5em;
+    padding: 2mm;
+}
